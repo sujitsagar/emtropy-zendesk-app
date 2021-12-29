@@ -1,0 +1,17 @@
+{
+    "name": "Emtropy",
+    "author": {
+        "name": "Emtropy Labs Inc",
+        "email": "support@emtropylabs.com",
+        "url": "https://www.emtropylabs.com/"
+    },
+    "defaultLocale": "en",
+    "private": false,
+    "location": {
+        "support": {
+          "ticket_sidebar": "https://www.emtropylabs.com/"
+        }
+    },
+    "frameworkVersion": "2.0",
+    "version": "1.0"
+}

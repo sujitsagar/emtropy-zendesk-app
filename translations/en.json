@@ -1,0 +1,8 @@
+{
+  "app": {
+    "name": "Emtropy",
+    "short_description": "AI powered qualitative insights for fast growing CX teams",
+    "long_description": "Emtropy helps you predict and lower customer escalation risks, supercharge QA evaluations and instrument data-driven coaching. \n \n - A powerful AI engine trained on millions of customer interactions across multiple industries \n - Easily scalable from a few hundred to millions of cases per month \n - Go - live in less than 48 hrs \n \n Sign up for a trial on our website https://www.emtropylabs.com/",
+    "installation_instructions": "For more detailed instructions on how to integrate Emtropy with your Zendesk application, please see our integration guide here: https://www.emtropylabs.com/help/free-trial-setup"
+  }
+}
