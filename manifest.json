@@ -7,11 +7,7 @@
     },
     "defaultLocale": "en",
     "private": false,
-    "location": {
-        "support": {
-          "ticket_sidebar": "https://www.emtropylabs.com/"
-        }
-    },
+    "marketingOnly":true,
     "frameworkVersion": "2.0",
     "version": "1.0"
 }
